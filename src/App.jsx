@@ -1,3 +1,4 @@
+import React from "react"
 import Header from "./components/Header"
 import SiteNav from "./components/SiteNav"
 import PokeCard from "./components/PokeCard"
